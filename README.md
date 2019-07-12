@@ -112,6 +112,3 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources)| 2016中国Swift开发者大会源文件，包括keynote, pdf 和源工程文件
 [全球移动技术大会2017](http://ppt.geekbang.org/gmtc)| 全球移动技术大会2017PPT下载合集
 
-## 打赏通道
-![IMG_1980.JPG](http://upload-images.jianshu.io/upload_images/1070332-12486628f167f9e8.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
